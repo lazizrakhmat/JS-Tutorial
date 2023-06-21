@@ -1,0 +1,3 @@
+[submodule "JS-Tutorial"]
+	path = JS-Tutorial
+	url = https://github.com/lazizrakhmat/JS-Tutorial
